@@ -28,7 +28,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/12BYUePgtn7sis" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/programmer-dilemma-12BYUePgtn7sis">via GIPHY</a></p>
 
 ---
 
