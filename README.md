@@ -34,6 +34,6 @@
 
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/gyanar25?country.x=IN&locale.x=en_GB) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gyanar25?country.x=IN&locale.x=en_GB) 
 
   
