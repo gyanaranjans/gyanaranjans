@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning **something amazing 🔥**
 - 💬 Ask me about **React, JavaScript, Node JS, Python and Web3**
 - 📫 How to reach me **sahoogyanaranjan687@gmail.com **
+- 👍 Personal Portfolio page **https://gyanaranjans.github.io/Personal-Portfolio/**
 
 
 ## 🌐 Socials:
