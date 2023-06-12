@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br />I'm Gyanaranjan</h1>
-<h3 align="center">Full-stack Web & web3 developer | Founder BIXI </h3>
-
+<h3 align="center">Full-stack Web & web3 developer | Founder of BIXI </h3>
+<p align="center"><img src="githubbanner.gif" width="700" height="350"  /></p>
 
 
 # 💫 About Me:
