@@ -8,9 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gyanaranjan-sahoo-33199023b) 
 - 💬 Ask me about **React, TypeScript, Next JS, Rust **
 - 📫 How to reach me **sahoogyanaranjan687@gmail.com **
-- 🚀I write Blog at **https://gyana.me/blog**
-- 👍 My side projects are at **https://gyana.me/projects**
-- 👍 Personal Portfolio page **https://gyana.me**
+- 🚀I write Blog at **https://gyana.tech/blog**
+- 👍 My side projects are at **https://gyana.tech/projects**
+- 👍 Personal Portfolio page **https://gyana.tech**
 
 
 ## 🌐 Socials:
